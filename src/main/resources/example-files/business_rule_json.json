@@ -1,0 +1,26 @@
+[
+  {
+    "type": "condition",
+    "field": "Rank/Level",
+    "value": "LEUT",
+    "operator": "&&"
+  },
+  {
+    "type": "condition",
+    "field": "Family Descr",
+    "value": "NAVY Maritime Personnel",
+    "operator": "&&"
+  },
+  {
+    "type": "condition",
+    "field": "Unit Descr",
+    "value": "HMAS ALBATROSS",
+    "operator": "&&"
+  },
+  {
+    "type": "condition",
+    "field": "Sea Duties",
+    "value": "N",
+    "operator": "&&"
+  }
+]
